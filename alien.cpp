@@ -36,7 +36,7 @@ string succ_alien(string n, string b) {
 		str[i] = mdup[str[i]];
 	}
 	if (c >= 1) {
-		cout << "Overflow detected... << endl;
+		cout << "Overflow detected..." << endl;
 		str = mdup[c+'0'] + str;
 	}
 	return str;
