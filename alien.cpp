@@ -36,8 +36,8 @@ string succ_alien(string n, string b) {
 		str[i] = mdup[str[i]];
 	}
 	if (c >= 1) {
-		cout << "Overflow detected... Answer cannot be given with the bits and the alien symbols given. Need another extra symbol... adding another bit '#' by default to represent the carry value: " << c << endl;
-		str = n[c+'0'] + str;
+		cout << "Overflow detected... << endl;
+		str = mdup[c+'0'] + str;
 	}
 	return str;
 }
