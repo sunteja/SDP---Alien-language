@@ -7,7 +7,6 @@ string succ_alien(string n, string b) {
 	unordered_map<char, char> mdup;
 	string str = "";
 	for (ll i = 0; i < b.length(); i++) {
-		// cout << "Converting " << i + 1 << " to a string" << endl;
 		m[b[i]] = to_string(i);
 	}
 	for (ll i = 0; i < b.length(); i++) {
