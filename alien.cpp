@@ -1,3 +1,4 @@
+// In this the whole process is written in the whole function. Moreover, the variable names are not good. 
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
