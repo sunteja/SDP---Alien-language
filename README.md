@@ -6,3 +6,7 @@
 ```bash
 make v<version number>
 ```
+* For example, if you want to compile the file, alienv2.cpp then, you have to run the command
+```bash
+make v2
+```
