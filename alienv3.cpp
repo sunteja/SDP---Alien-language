@@ -1,4 +1,4 @@
-// In this code all the functions are written independently of each other. The numtoal function converts a string from the integer string to the corresponding alien string. On the other hand, the altonum does the reverse. The succutil function is a utility function which adds 1 to the string given to it and stores it in the original string itself.
+// In this code all the functions are written independently of each other. The numtoal function converts a string from the integer string to the corresponding alien string. On the other hand, the altonum does the reverse. The succutil function is a utility function which adds 1 to the string given to it and stores it in the original string itself
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long ll;
